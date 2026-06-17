@@ -30,8 +30,8 @@ This repository contains machine learning algorithms implemented from scratch us
 
 
 ### KNN
--KNN-Linear Regression
--KNN-Logistic Regression
+- KNN-Linear Regression
+- KNN-Logistic Regression
 
 ## Unsupervised Learning
 
